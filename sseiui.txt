@@ -1,0 +1,9 @@
+﻿<UPGRADE>
+NAME:Colum
+VERSION:2
+CRITICALFOR:NONE
+DESCRIPTION:This will upgrade the program to the latest version.
+INFOURL:
+DOWNLOADURL1:https://www.dropbox.com/s/9f90zl6i6r4ilgj/Colum2.exe?dl=1
+</UPGRADE>
+
